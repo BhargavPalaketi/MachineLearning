@@ -1,2 +1,2 @@
 # MachineLearning
-My Learning on Machine Learning
+My Learnings on Machine Learning
