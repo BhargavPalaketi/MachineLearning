@@ -1,4 +1,4 @@
-#Tool	Resource
+Tool	Resource
 Scikit Learn	https://scikit-learn.org/stable/index.html 
 
 Scipy 	https://scipy.org/  
