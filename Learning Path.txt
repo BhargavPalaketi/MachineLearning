@@ -1,0 +1,28 @@
+Path:
+Andre NG  --> Machine Learning stanford
+
+Deep Learning Specialisation
+	c1 -> NN and Deep Learning
+	c2 -> Improving DNN
+	c3 -> Structuring ML Projects.
+	c4 -> CNNs
+	c5 -> SEQUence Models
+
+NLP Specialisation (4 courses)
+	c1 -> NLP with Classifaction and vec space.
+	c2 -> NLP with Probabilistic Models.
+	c3 -> NLP with Sequence Models.
+	c4 -> NLP with Attention Models.
+ML --> NN --> DNN --> CNN --> NLP -->RNN-- LSTMs SEQUence Model
+
+CNN --> Object, Image ,
+
+RNN, LSTMs
+
+BERT 
+FastAi
+
+"/My Folders/POC_PERSON_ASSIGNMENTS"
+
+
+	
