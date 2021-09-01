@@ -22,7 +22,6 @@ RNN, LSTMs
 BERT 
 FastAi
 
-"/My Folders/POC_PERSON_ASSIGNMENTS"
 
 
 	
